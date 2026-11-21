@@ -14,3 +14,6 @@ Five-page responsive static HTML/CSS/JS website.
 - Product specifications, availability, delivery times, MOQs and technical integrations must be verified before making firm promises.
 - Schema location is area-level, not a fabricated street address. GEO coordinates are supplied by the client and are not asserted as the business's exact location.
 - External Google Fonts are used; fallback fonts are provided.
+
+## AiHms Hotel Technology Division
+The Hotel Tech page includes a dedicated AiHms section for channel manager, PMS, booking engine, OTA setup, revenue management, and website/SEO/digital marketing, with WhatsApp enquiry actions and a link to https://aihms.co.in/.
