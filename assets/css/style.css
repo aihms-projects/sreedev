@@ -3,3 +3,14 @@
 
 /* AiHms technology division */
 .aihms-section{background:linear-gradient(180deg,#fff 0%,#f8fafc 100%)}.aihms-head{display:grid;grid-template-columns:1.55fr 1fr;align-items:center;gap:48px;margin-bottom:48px}.aihms-head h2{font-size:clamp(2rem,3.5vw,3.1rem);line-height:1.15;margin:12px 0 18px}.aihms-head p{max-width:690px;line-height:1.8}.aihms-accent{color:#f57c20}.aihms-actions{display:flex;gap:12px;flex-wrap:wrap;margin-top:25px}.aihms-mark{min-height:270px;background:linear-gradient(135deg,#0f172a,#1c355b);border-radius:24px;padding:35px;color:white;display:flex;flex-direction:column;justify-content:center;box-shadow:0 22px 50px #0f172a25}.aihms-mark>span{font-size:clamp(3.5rem,7vw,5.8rem);font-weight:900;letter-spacing:-.06em;color:#fff}.aihms-mark>small{font-size:1rem;color:#cbd5e1;letter-spacing:.04em}.aihms-mark-lines{display:flex;flex-wrap:wrap;gap:8px;margin-top:25px}.aihms-mark-lines span{border:1px solid #ffffff40;padding:7px 12px;border-radius:20px;font-size:.8rem}.aihms-intro{margin-bottom:28px}.aihms-note{margin-top:25px}.aihms-note a{color:#bd5c0b;text-decoration:underline}@media(max-width:780px){.aihms-head{grid-template-columns:1fr;gap:25px}.aihms-mark{min-height:200px}}
+
+/* Hotel Tech dropdown */
+.nav-dropdown{position:relative;display:flex;align-items:center}
+.nav-dropdown>.nav-parent{font-weight:700;font-size:.88rem;color:#334155;padding:12px 0}
+.nav-dropdown>.nav-parent::after{content:" ▾";font-size:.75rem}
+.nav-dropdown>.nav-parent.active,.nav-dropdown a:hover{color:var(--orange-dark)}
+.submenu{display:none;position:absolute;top:100%;left:0;min-width:235px;padding:9px;background:#fff;border:1px solid var(--line);border-radius:10px;box-shadow:0 15px 35px #0f172a20;z-index:80}
+.submenu a{display:block;padding:11px 13px;font-weight:700;font-size:.86rem;color:var(--ink);border-radius:6px}
+.submenu a:hover,.submenu a.active{background:#fff0e4;color:var(--orange-dark)}
+.nav-dropdown:hover .submenu,.nav-dropdown:focus-within .submenu{display:block}
+@media(max-width:780px){.nav-dropdown{display:block}.nav-dropdown>.nav-parent{display:block;padding:0;font-size:1rem}.submenu{display:block;position:static;box-shadow:none;border:0;border-left:2px solid var(--orange);border-radius:0;padding:2px 0 2px 12px;margin:8px 0 0 5px}.submenu a{font-size:.94rem;padding:8px 10px}}

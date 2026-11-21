@@ -17,3 +17,8 @@ Five-page responsive static HTML/CSS/JS website.
 
 ## AiHms Hotel Technology Division
 The Hotel Tech page includes a dedicated AiHms section for channel manager, PMS, booking engine, OTA setup, revenue management, and website/SEO/digital marketing, with WhatsApp enquiry actions and a link to https://aihms.co.in/.
+
+Business email: info@sreedev.in (click-to-email on all page footers and contact page).
+
+- channel-manager.html: dedicated AiHms Channel Manager landing page under the Hotel Tech dropdown.
+- Contact email: info@sreedev.in (mailto links; WhatsApp quote forms unchanged).
