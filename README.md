@@ -28,3 +28,7 @@ Business email: info@sreedev.in (click-to-email on all page footers and contact 
 - trademark-registration.html, gst-registration.html, msme-registration.html: individual service pages
 - Consulting dropdown available on all pages (desktop and mobile).
 - Government approvals are not guaranteed. Udyam official registration is free; optional assistance may be charged separately.
+
+
+## Legal / payment gateway policy pages
+Five policy pages are linked in the footer only: Terms & Conditions, Privacy Policy, Disclaimer, Refund Policy, Cancellation Policy. Legal name is SREE DEV (as per GST); operating brand SREE DEV HOSPITALITY. Support email: support@sreedev.in. Address and phone updated in footer and schema. These are business-specific starter drafts: confirm actual cancellation/refund timeframes, gateway details, tax/GST details and compliance with your payment gateway and legal adviser before publishing or accepting online payments. Replace YOUR-DOMAIN.example in all pages, sitemap and robots.
