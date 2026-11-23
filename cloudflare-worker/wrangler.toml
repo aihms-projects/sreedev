@@ -3,7 +3,7 @@ main = "worker.js"
 compatibility_date = "2026-11-01"
 
 [vars]
-SITE_ORIGIN = "https://www.sreedev.in"
+SITE_ORIGIN = "https://sreedev.in"
 CASHFREE_ENV = "sandbox"
 # Set CASHFREE_CLIENT_ID and CASHFREE_CLIENT_SECRET as encrypted Worker secrets,
 # not in this file.
