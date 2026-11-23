@@ -35,3 +35,7 @@ Five policy pages are linked in the footer only: Terms & Conditions, Privacy Pol
 
 ## Careers
 Careers page: careers.html. Applicants email their CV/resume to hr@sreedev.in; no website upload or job application database is provided.
+
+
+## Cashfree without PHP
+See `CLOUDFLARE_PAYMENT_SETUP.md`. Payment checkout uses a Cloudflare Worker instead of PHP.
