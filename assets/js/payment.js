@@ -2,7 +2,7 @@
   'use strict';
   $(function () {
     // Replace with your deployed Worker URL (no trailing slash).
-    const API_BASE = 'https://YOUR-WORKER.YOUR-SUBDOMAIN.workers.dev';
+    const API_BASE = 'https://sreedev-cashfree.sreedevgroups.workers.dev';
     const CASHFREE_MODE = 'sandbox'; // Change to 'production' only when your Worker uses production credentials.
     const $form = $('#cashfreePaymentForm');
     const $button = $('#payBtn');
