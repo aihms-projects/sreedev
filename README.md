@@ -32,3 +32,6 @@ Business email: info@sreedev.in (click-to-email on all page footers and contact 
 
 ## Legal / payment gateway policy pages
 Five policy pages are linked in the footer only: Terms & Conditions, Privacy Policy, Disclaimer, Refund Policy, Cancellation Policy. Legal name is SREE DEV (as per GST); operating brand SREE DEV HOSPITALITY. Support email: support@sreedev.in. Address and phone updated in footer and schema. These are business-specific starter drafts: confirm actual cancellation/refund timeframes, gateway details, tax/GST details and compliance with your payment gateway and legal adviser before publishing or accepting online payments. Replace YOUR-DOMAIN.example in all pages, sitemap and robots.
+
+## Careers
+Careers page: careers.html. Applicants email their CV/resume to hr@sreedev.in; no website upload or job application database is provided.
