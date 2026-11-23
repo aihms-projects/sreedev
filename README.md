@@ -22,3 +22,9 @@ Business email: info@sreedev.in (click-to-email on all page footers and contact 
 
 - channel-manager.html: dedicated AiHms Channel Manager landing page under the Hotel Tech dropdown.
 - Contact email: info@sreedev.in (mailto links; WhatsApp quote forms unchanged).
+
+## Consulting Pages
+- consulting.html: consulting overview and WhatsApp lead form
+- trademark-registration.html, gst-registration.html, msme-registration.html: individual service pages
+- Consulting dropdown available on all pages (desktop and mobile).
+- Government approvals are not guaranteed. Udyam official registration is free; optional assistance may be charged separately.
